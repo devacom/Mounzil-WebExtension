@@ -2,7 +2,7 @@ Forked from [Persepolis-WebExtension](https://github.com/persepolisdm/persepolis
 
 -----
 ## Mounzil WebExtension
-Integrate Persepolis Download Manager with Chrome\Chromium\FireFox\Opera and any other WebExtension standard browser. With this tool, Mounzil can interrupt and catch your downloads browsers or download many links at once.
+Integrate Mounzil with Chrome\Chromium\FireFox\Opera and any other WebExtension standard browser. With this tool, Mounzil can interrupt and catch your downloads browsers or download many links at once.
 
 For more details, visit [Mounzil Github Page](https://github.com/devacom/mounzil)
 
