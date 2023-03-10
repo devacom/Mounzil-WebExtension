@@ -10,9 +10,7 @@ For more details, visit [Mounzil Github Page](https://github.com/devacom/mounzil
 ----
 # Install
 
-[Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/persepolis-dlm-integration/)    
-[Google chrome store](https://chrome.google.com/webstore/detail/persepolis-download-manag/legimlagjjoghkoedakdjhocbeomojao)
-
+[Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/mounzil-integration/)    
 
 ## Contributing
 **Are you a user?**
